@@ -4,12 +4,17 @@
 
 An open-source repository dedicated to stripping down legacy Windows installation media to their absolute core system binaries. This project bypasses 1990s web-integration bloat, defunct ISP software, and marketing telemetry to achieve the smallest possible disk footprint for emulation (VMware, VirtualBox, 86Box, PCem).
 
+# Screenshots
+
+<img width="742" height="520" alt="image" src="https://github.com/user-attachments/assets/9a214906-5dc6-48eb-a091-b878c4c8e842" />
+
+
 ---
 
 ## 🎯 Project Highlights: Windows 95 OSR2
 * **Original ISO Size:** 592 MB ➔ **Optimized ISO Size:** 50.6 MB (91.4% reduction!)
 * **Out-of-the-Box C: Drive Footprint:** 56.1 MB (Clean, lightweight FAT32 structure)
-* **Idle RAM Utilization:** ~6 MB to 10 MB
+* **Idle RAM Utilization:** ~4 MB or Night be ~2 MB
 
 ---
 
@@ -50,9 +55,11 @@ R:\WIN95> setup /is /iq /id /iv
 * **`/iv`**: Eliminates promotional marketing presentation billboards during file copying.
 * *Crucial Selection:* When prompted by the graphical wizard layout, ensure you choose **Compact Setup** to finalize the barebone environment.
 
+---
+
 ## Downloads
 
-Windows 95 OSR 2 Barebone - [Download Here] https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
+Windows 95 OSR 2 Barebone Bootable ISO - https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
 
 ---
 
