@@ -4,6 +4,8 @@
 
 An open-source repository dedicated to stripping down legacy Windows installation media to their absolute core system binaries. This project bypasses 1990s web-integration bloat, defunct ISP software, and marketing telemetry to achieve the smallest possible disk footprint for emulation (VMware, VirtualBox, 86Box, PCem).
 
+---
+
 # Screenshots
 
 <img width="742" height="520" alt="image" src="https://github.com/user-attachments/assets/9a214906-5dc6-48eb-a091-b878c4c8e842" />
@@ -60,6 +62,8 @@ R:\WIN95> setup /is /iq /id /iv
 ## Downloads
 
 Windows 95 OSR 2 Barebone Bootable ISO - https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
+
+Windows 95 OSR 2 Barebone VMware 17.5 or later - https://drive.google.com/file/d/1lh_ma6Gs_VnOlj6ZUMCIL-ZK8WO-LJKf/view?usp=sharing
 
 ---
 
