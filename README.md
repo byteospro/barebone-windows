@@ -52,7 +52,7 @@ R:\WIN95> setup /is /iq /id /iv
 
 ## Downloads
 
-Windows 95 OSR 2 Barebone - [https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing]Download Here
+Windows 95 OSR 2 Barebone - [Download Here] https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
 
 ---
 
