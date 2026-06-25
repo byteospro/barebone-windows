@@ -4,7 +4,7 @@ step 1 - install the WIN95_INSTALLMEDIA_BAREBONE_BOOTABLE.zip file on your compu
 
 step 2 - extract it (you are in it right now)
 
-step 3 - open "README_FIRST.txt" (you are in it right now)
+step 3 - open "README FIRST TO INSTALL SUCCESSFULLY.txt" (you are in it right now)
 
 step 4 (for a vm) - create a new vm with your desired settings , and mount the virtual iso file on the cd drive.
 
