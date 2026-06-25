@@ -11,18 +11,31 @@ step 4 (for a vm) - create a new vm with your desired settings , and mount the v
 step 4 (for an old machine) - burn the virtual iso onto a cd/dvd RW disk , insert it into the pc.
 
 step 5 - do this one by one - 
+
 |- fdisk (NOTE - RUNNING FDISK MIGHT DESTROY DATA , CONTINUE WITH CAUTION)
+
 |-- press "Y" and hit Enter on the keyboard (only if you have disk more than 512mb)
+
 |--- press "1" and hit enter on keyboard
+
 |---- again press "1" and hit enter on keyboard
+
 |----- press "1" and hit enter on your keyboard (only if you want to give full size to the C: drive or else , press "N" and hit enter on your keyboard and manually resize partitions yourself)
+
 |------ press "Esc" key on your keyboard and hit enter
+
 |------- then restart your vm or the pc and do these - (before that prioritize the cd/dvd drive or the virtual iso on a vm to boot from it and do these)
+
 |-------- format c: /s
+
 |--------- press "Y" and hit enter on the keyboard (NOTE - THIS WILL ERASE ALL OF THE DATA)
+
 |---------- now give the name of volume label and hit enter or just hit enter for no label
-|----------- [your disk letter for the cd/dvd drive] with an ":"
+
+|----------- (your disk letter for the cd/dvd drive) with an ":" at the end
+
 |------------ cd WIN95
+
 |------------- setup /is /iq /id /iv
 
 step 6 - go through the setup! (also read the "WARNING" section just below this if you encounter errors related to them or post it on the issues page on GitHub if it's other things.)
