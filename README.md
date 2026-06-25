@@ -50,6 +50,10 @@ R:\WIN95> setup /is /iq /id /iv
 * **`/iv`**: Eliminates promotional marketing presentation billboards during file copying.
 * *Crucial Selection:* When prompted by the graphical wizard layout, ensure you choose **Compact Setup** to finalize the barebone environment.
 
+## Downloads
+
+Windows 95 OSR 2 Barebone - [https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing]Download Here
+
 ---
 
 ## 📜 License
