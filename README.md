@@ -89,13 +89,12 @@ Fire up classic **nLite v1.4.9.3**, target your workspace directory, and execute
 Because Windows 2k errors out in installation , we have to give it a different product key , so after clicking "ok" 2 times , enter this product key - 
 `DDTPV-TXMX7-BBGJ9-WGY8K-B9GHM`
 
-```
+---
 
 ### Step 4: Storage Optimization Post-Install Fix
 Once the automated graphical text installer boots you into the live desktop space, perform these two manual steps to shrink the final partition blocks down to the **349 MB record floor**:
 1. Open **My Computer** ➔ Right-click **C: Drive Properties** ➔ Check **"Compress drive to save disk space"** and click Apply.
 2. Right-click **My Computer** ➔ **Properties** ➔ **Advanced** ➔ **Performance Options** ➔ **Virtual Memory Change**. Drop your active `pagefile.sys` allocation down to an Initial of **32 MB** and a Maximum of **64 MB**, click **Set**, and perform a single system reboot sequence.
-
 
 ---
 
