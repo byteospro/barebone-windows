@@ -10,6 +10,11 @@ An open-source repository dedicated to stripping down legacy Windows installatio
 
 <img width="742" height="520" alt="image" src="https://github.com/user-attachments/assets/9a214906-5dc6-48eb-a091-b878c4c8e842" />
 
+Windows 95 Ultimate Barebone - 56.1MB
+
+<img width="704" height="534" alt="win2kbbstd" src="https://github.com/user-attachments/assets/9d37a7c2-817f-408f-8eae-e9dbcab25f88" />
+
+Windows 2000 Standard Barebone - 349MB
 
 ---
 
@@ -59,11 +64,50 @@ R:\WIN95> setup /is /iq /id /iv
 
 ---
 
+## 🎯 Project Highlights: Windows 2000 Professional SP4
+* **Original ISO Size:** 363 MB ➔ **Optimized ISO Size:** 160.5 MB (55.7% reduction!)
+* **Out-of-the-Box C: Drive Footprint:** 349 MB (Includes a customized 32-64MB memory heap fallback cache)
+* **Status Profile:** Standard Barebone (Retains standard physical driver support layers, Microsoft Paint, 3D Pinball Space Cadet, and MS Agent character libraries)
+
+PLEASE NOTE THAT THE CUSTOMIZED PAGE FILE SIZE IS ONLY AVAILABLE TO THE VMWARE USERS , AND ALSO TO GET THE SPACE LOW , WE HAVE TO UNCHECK THE INDEXING FILES IN THE PROPERTIES OF THE C: DRIVE AND CHECK COMPRESS THIS DISK TO LOWER THE SPACE USED.
+
+---
+
+## 🛠️ Windows 2000 Professional Slim Architecture Blueprints
+
+### Step 1: Structural Extraction Layer
+Extract your pristine Windows 2000 SP4 ISO into a working directory on your host desktop. Ensure the core `I386` directory layer sits right alongside its companion master CD identification files (`CDROM_IP.5`, `CDROM_NT.5`, etc.) to clear administrative validation checks inside the compiler engine.
+
+### Step 2: Surgical Component Extraction Matrices
+Fire up classic **nLite v1.4.9.3**, target your workspace directory, and execute these targeted purging parameters across the task selection grid columns:
+* **Languages**: Complete global purge (Deletes all international font families and translation modules except English, instantly carving out ~40-50MB of system weight).
+* **Directories**: Wipe `BOOTDISK`, `DISCOVER` (system tour logs), `SUPPORT`, and `VALUEADD` subfolders entirely from the root image map.
+* **Multimedia**: Clean out bulky legacy Windows Media Player bundles, sound schemes, and sample image data caches while safely maintaining core `DirectX` and `OpenGL Support` vectors.
+* **Services & Performance**: Toggle automatic file logging trackers off. Check `Indexing Service`, `Remote Registry`, `Fax Service`, and corporate `Kerberos KDC` background servers for complete removal to prevent active storage latency cycles.
+
+### Step 3: Product Key
+Because Windows 2k errors out in installation , we have to give it a different product key , so after clicking "ok" 2 times , enter this product key - 
+`DDTPV-TXMX7-BBGJ9-WGY8K-B9GHM`
+
+```
+
+### Step 4: Storage Optimization Post-Install Fix
+Once the automated graphical text installer boots you into the live desktop space, perform these two manual steps to shrink the final partition blocks down to the **349 MB record floor**:
+1. Open **My Computer** ➔ Right-click **C: Drive Properties** ➔ Check **"Compress drive to save disk space"** and click Apply.
+2. Right-click **My Computer** ➔ **Properties** ➔ **Advanced** ➔ **Performance Options** ➔ **Virtual Memory Change**. Drop your active `pagefile.sys` allocation down to an Initial of **32 MB** and a Maximum of **64 MB**, click **Set**, and perform a single system reboot sequence.
+
+
+---
+
 ## Downloads
 
-Windows 95 OSR 2 Barebone Bootable ISO - https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
+Windows 95 OSR 2 Barebone Ultimate Bootable ISO - https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
 
-Windows 95 OSR 2 Barebone VMware 17.5 or later - https://drive.google.com/file/d/1lh_ma6Gs_VnOlj6ZUMCIL-ZK8WO-LJKf/view?usp=sharing
+Windows 95 OSR 2 Ultimate Barebone VMware 17.5 or later - https://drive.google.com/file/d/1lh_ma6Gs_VnOlj6ZUMCIL-ZK8WO-LJKf/view?usp=sharing
+
+Windows 2000 SP4 Standard Barebone Bootable ISo + Errors List Included - COMING SOON
+
+Windows 2000 SP4 Standard Barebone VMware Files (Only VMware 12.x Or Later) - COMING SOON
 
 ---
 
