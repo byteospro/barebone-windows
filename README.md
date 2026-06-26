@@ -16,7 +16,7 @@ An open-source repository dedicated to stripping down legacy Windows installatio
 ## 🎯 Project Highlights: Windows 95 OSR2
 * **Original ISO Size:** 592 MB ➔ **Optimized ISO Size:** 50.6 MB (91.4% reduction!)
 * **Out-of-the-Box C: Drive Footprint:** 56.1 MB (Clean, lightweight FAT32 structure)
-* **Idle RAM Utilization:** ~4 MB or Night be ~2 MB
+* **Idle RAM Utilization:** ~4 MB or Might be ~2 MB
 
 ---
 
