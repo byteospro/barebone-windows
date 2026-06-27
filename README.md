@@ -149,11 +149,13 @@ An archive of verified, clean legacy applications and tools perfectly optimized 
 
 ### 🌐 Old Web Browsers
 
-### 🎮 2. Runtimes, Patches, & Gaming Support
+Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing
 
-### 🎬 3. Productivity & Legacy Media Playback
+### 🎮  Runtimes, Patches, & Gaming Support
 
-### 🕹️ 4. Verified Vintage Shareware Gaming Classics
+### 🎬  Productivity & Legacy Media Playback
+
+### 🕹️  Verified Vintage Shareware Gaming Classics
 
 ---
 
