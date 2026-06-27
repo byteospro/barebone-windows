@@ -2,7 +2,7 @@
 
 ## ⚡ Minimalist Legacy OS Archives
 
-An open-source repository dedicated to stripping down legacy Windows installation media to their absolute core system binaries. This project bypasses 1990s web-integration bloat, defunct ISP software, and marketing telemetry to achieve the smallest possible disk footprint for emulation (VMware, VirtualBox, 86Box, PCem).
+An open-source repository dedicated to stripping down legacy Windows installation media to their absolute core system binaries. This project bypasses 1990s web-integration bloat, defunct ISP software, and marketing telemetry to achieve the smallest possible disk footprint for emulation (VMware Only For Now) and legacy old machines.
 
 ---
 
