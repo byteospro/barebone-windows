@@ -148,7 +148,7 @@ An archive of verified, clean legacy applications and tools perfectly optimized 
 * VMware Tools 10.0.0 for Windows XP (VMware Exclusive)- *   **[VMware Tools v10.0.12 (Official Directory Target)](https://packages.vmware.com/tools/releases/10.0.12/windows/x86/)**: Broadcom officially maintains the legacy repository index endpoints for vintage guest operating systems. Open the official index pathway directory, select **`VMware-tools-10.0.12-4448496-i386.exe`**, and download the source package cleanly.
 *   **[Alternative Pre-Vista ISO Mirror (Internet Archive)](https://archive.org)**: If you prefer mounting the complete system driver virtual disk directly into your virtual CD-ROM tray, you can fetch the public community archive mirror `winPreVista.iso`.
 
-### 🌐
+### 🌐 Old Web Browsers
 
 ### 🎮 2. Runtimes, Patches, & Gaming Support
 
