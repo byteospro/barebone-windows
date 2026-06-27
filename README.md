@@ -148,11 +148,11 @@ Windows 95 OSR 2 Ultimate Barebone VMware 17.5 or later - https://drive.google.c
 
 Windows 2000 SP4 Standard Barebone Bootable ISO - https://drive.google.com/file/d/1qa16QhMfrkBMUs1OzEXEGN787b_Nudtk/view?usp=sharing
 
-Windows 2000 SP4 Standard Barebone VMware Files (Only VMware 12.x Or Later) - https://drive.google.com/file/d/1i1ekTwyiBF1svKZlvZvjiLgCgUmF4I8H/view?usp=sharing
+Windows 2000 SP4 Standard Barebone VMware Folder (Only VMware 12.x Or Later) - https://drive.google.com/file/d/1i1ekTwyiBF1svKZlvZvjiLgCgUmF4I8H/view?usp=sharing
 
 Windows XP PRO SP3 Standard Barebone Bootable ISO - https://drive.google.com/file/d/1irgRRdyZwZ_uLO8aeN2ojLOkb6C8LYkJ/view?usp=sharing
 
-Winodws XP PRO SP3 Standard Barebone VMware VM Folder - COMING SOON
+Winodws XP PRO SP3 Standard Barebone VMware VM Folder (Only VMware 12.x Or Later) - https://drive.google.com/file/d/1tbL8Rb7ZFk74Pyvew-l-fi8IFuyfiFjn/view?usp=sharing
 
 ---
 
