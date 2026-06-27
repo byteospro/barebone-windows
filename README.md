@@ -150,9 +150,10 @@ Windows 2000 SP4 Standard Barebone Bootable ISO - https://drive.google.com/file/
 
 Windows 2000 SP4 Standard Barebone VMware Files (Only VMware 12.x Or Later) - https://drive.google.com/file/d/1i1ekTwyiBF1svKZlvZvjiLgCgUmF4I8H/view?usp=sharing
 
-Windows XP PRO SP3 Standard Barebone Bootable ISO - COMING SOOM
+Windows XP PRO SP3 Standard Barebone Bootable ISO - COMING SOON
 
-Wnodws XP PRO SP3 Standard Barebone VMware VM Folder - COMING SOON
+Winodws XP PRO SP3 Standard Barebone VMware VM Folder - COMING SOON
+
 ---
 
 ## 📜 License
