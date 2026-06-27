@@ -140,6 +140,19 @@ Once the automated graphical installer drops you directly onto your fresh Luna d
 
 ---
 
+# 🛠️ PreWare Utilities (Curated Retro Software Library)
+An open-source archive of verified, clean legacy applications and tools perfectly optimized to run flawlessly within your Barebone environments without bloating the file system.
+
+### 🌐 1. Essential Web & Network Navigation
+
+### 🎮 2. Runtimes, Patches, & Gaming Support
+
+### 🎬 3. Productivity & Legacy Media Playback
+
+### 🕹️ 4. Verified Vintage Shareware Gaming Classics
+
+---
+
 ## 💿 Downloads
 
 Windows 95 OSR 2 Barebone Ultimate Bootable ISO - https://drive.google.com/file/d/1REI-wrLITSUdMf_cszWbS7PKIBR6F25x/view?usp=sharing
