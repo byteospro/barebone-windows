@@ -151,11 +151,13 @@ An archive of verified, clean legacy applications and tools perfectly optimized 
 
 Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing
 
-### 🎮  Runtimes, Patches, & Gaming Support
+### 🎮  Retro Gaming 
+
+PINBALL (WinXP Version) (Works From Windows 95 - Windows 11) (Exclusive For Windows 2k/XP) - https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing [VERIFIED WORKING] [IN TESTING FOR WINDOWS 95]
 
 ### 🎬  Productivity & Legacy Media Playback
 
-### 🕹️  Verified Vintage Shareware Gaming Classics
+### 🕹️  Verified Vintage Classics
 
 ---
 
