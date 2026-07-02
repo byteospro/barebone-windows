@@ -14,3 +14,8 @@ Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.co
 ### 🕹️  Verified Vintage Classics
 
 *   **[3D Pinball Space Cadet (Preservation Mirror)](https://archive.org/details/pinball-win-95)**: The authentic classic 1995 3D Pinball game engine asset package from the Windows 95 Plus! expansion pack. Download this compact 2.6 MB disk image directly inside your barebone environment to instantly test your hypervisor audio, keyboard input latency, and legacy rendering configurations. [COMPATIBLE WITH ALL WINDOWS VERSIONS] [WORKING VERIFIED] [PART OF Plus! 95]
+
+### 📦 Retro Bundle Packs
+
+*   **[Microsoft PLUS! For Windows 95 (Preservation Mirror)](https://archive.org/details/plus-for-win-95)**: This is the first release ever from Microsoft PLUS! , which is dedicated to work on windows 95. Download this compact 20MB 7z file now to see what this has to offer!
+(Windows 95 Exclusive)
