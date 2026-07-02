@@ -8,6 +8,8 @@ Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.co
 
 ### 🎮  Retro Gaming 
 
+*   **[DOOM 1 (Preservation Mirror)](https://archive.org/details/doom-1_202607): download the original release of doom and try to run it on your super old systems! [MIGHT BE INCOMATIBLE WITH barebone-windows]
+
 
 ### 🎬  Productivity & Legacy Media Playback
 
