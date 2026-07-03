@@ -24,10 +24,10 @@ Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.co
 *   **[Microsoft PLUS! For Windows 95 (Preservation Mirror)](https://archive.org/details/plus-for-win-95)**: This is the first release ever from Microsoft PLUS! , which is dedicated to work on windows 95. Download this compact 20MB 7z file now to see what this has to offer!
 (Windows 95 Exclusive)
 
-*   **[Microsoft PLUS! For Windows XP (Preservation Mirror)](https://archive.org/details/plus-for-win-xp) [(Direct Download)](https://ia601401.us.archive.org/3/items/some-win-95-apps-and-stuff/SomeWin95AppsAndStuff.zip)**: This Is The Last Release Of Microsoft PLUS! , download the ISO file from here right now and test it! (Windows XP Exclusive)
+*   **[Microsoft PLUS! For Windows XP (Preservation Mirror)](https://archive.org/details/plus-for-win-xp)**: This Is The Last Release Of Microsoft PLUS! , download the ISO file from here right now and test it! (Windows XP Exclusive)
 
 ### 📁Own-Made Packs And Folders
 
 Season 1
 
-*   **[Windows 95 Apps And More Stuff (Preservation Mirror For Windows 95 Apps)](https://archive.org/details/some-win-95-apps-and-stuff)**: This Is Our Hand Made Pack Which Contains Apps like calc.exe , cdplayer.exe , explorer.exe , rappayer.exe , regedit.exe , etc , but also there are some files that i found with extensions .gif . .xls .doc .ppt .htm (correct me if im wrong) i think most of them are empty but some are not and I also have not took a look at this yet , so download this compact 17mb .zip file now and explore it! (Windows 95 Exclusive)
+*   **[Windows 95 Apps And More Stuff (Preservation Mirror For Windows 95 Apps)](https://archive.org/details/some-win-95-apps-and-stuff) [(Direct Download)](https://ia601401.us.archive.org/3/items/some-win-95-apps-and-stuff/SomeWin95AppsAndStuff.zip)**: This Is Our Hand Made Pack Which Contains Apps like calc.exe , cdplayer.exe , explorer.exe , rappayer.exe , regedit.exe , etc , but also there are some files that i found with extensions .gif . .xls .doc .ppt .htm (correct me if im wrong) i think most of them are empty but some are not and I also have not took a look at this yet , so download this compact 17mb .zip file now and explore it! (Windows 95 Exclusive)
