@@ -45,3 +45,9 @@ If There is a text written like (VMware Exclusive) , (For Windows XP) , etc , (w
 # Direct Download [BETA] [YET TO BE IMPLEMENTED]
 
 This Feature Will Allow You To Download The File From Store.md Directly Without going to go to another page , you can download them right here on github page!
+
+---
+
+# Old_Store.md
+
+We Have Created A File Called Old_Store.md , Where I Will Store The Old Files Like If I Removed Something From The Store , It Will Be IN The Old_Store , It Just Functions Like old-version !
