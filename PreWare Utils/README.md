@@ -8,4 +8,6 @@ There Will be many apps for the barebone version of windows we make , and there 
 
 Also , why we made this? so , if you install something from internet , it might be unsafe , or you might take like hours to find your apps you want to install , so we are doing this for you! you can just download them from our store in just minutes! so you don't need to spend hours or download virus from random links from the internet.
 
+Also I Just made a file called Old_Store.md , In Which I Remove Some Files , I Will Shift Them There So They Can Download The Files!
+
 So , for now that's it in this README.
