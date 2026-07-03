@@ -8,10 +8,12 @@ Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.co
 
 ### 🎮  Retro Gaming 
 
-*   **[DOOM 1 (Preservation Mirror)](https://archive.org/details/doom-1_202607): download the original release of doom and try to run it on your super old systems! [MIGHT BE INCOMATIBLE WITH barebone-windows]
+*   **[DOOM 1 (Preservation Mirror)](https://archive.org/details/doom-1_202607)**: download the original release of doom and try to run it on your super old systems! [MIGHT BE INCOMATIBLE WITH barebone-windows]
 
 
 ### 🎬  Productivity & Legacy Media Playback
+
+*   **[7zip 9.20 (Preservation Mirror)](https://archive.org/details/7zip-9.20)**: This Is The Version 9.20 Of 7zip , Which you can install on windows XP and test how it packs and unpacks files! (Windows XP Exclusive)
 
 ### 🕹️  Verified Vintage Classics
 
