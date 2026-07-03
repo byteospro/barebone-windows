@@ -1,4 +1,4 @@
-# fEATURES
+# Features
 
 This repo folder will give you apps & games for your barebone windows!
 
@@ -42,4 +42,6 @@ If There is a text written like (VMware Exclusive) , (For Windows XP) , etc , (w
 
 ---
 
-## That's It For Now , Come Back Later!
+# Direct Download [BETA] [YET TO BE IMPLEMENTED]
+
+This Feature Will Allow You To Download The File From Store.md Directly Without going to go to another page , you can download them right here on github page!
