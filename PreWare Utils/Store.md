@@ -1,14 +1,16 @@
 ### ⌨  Essential Drivers For Performance
 
-* VMware Tools 10.0.0 for Windows XP (VMware Exclusive)- *   **[VMware Tools v10.0.12 (Official Directory Target)](https://packages.vmware.com/tools/releases/10.0.12/windows/x86/)**: Broadcom officially maintains the legacy repository index endpoints for vintage guest operating systems. Open the official index pathway directory, select **`VMware-tools-10.0.12-4448496-i386.exe`**, and download the source package cleanly. [WORKING VERIFIED]
+* VMware Tools 10.0.0 for Windows XP (VMware Exclusive):**[VMware Tools v10.0.12 (Official Directory Target)](https://packages.vmware.com/tools/releases/10.0.12/windows/x86/)**: Broadcom officially maintains the legacy repository index endpoints for vintage guest operating systems. Open the official index pathway directory, select **`VMware-tools-10.0.12-4448496-i386.exe`**, and download the source package cleanly. [WORKING VERIFIED]
 
 ### 🌐  Old Web Browsers
 
-Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing
+Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - [Supermium Download](https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing)
 
 ### 🎮  Retro Gaming 
 
 *   **[DOOM 1 (Preservation Mirror)](https://archive.org/details/doom-1_202607)**: download the original release of doom and try to run it on your super old systems! [MIGHT BE INCOMATIBLE WITH barebone-windows]
+
+*   **[DOOM 95 (Preservation Mirror)](https://archive.org/details/doom-95_202607) or [Direct Download](https://ia801607.us.archive.org/26/items/doom-95_202607/Doom95.zip)**: Doom 95 , the port for doom on windows. works with windows 95/98/ME/2K/XP (i think) , Download this .zip file now , it's just 4.4mb!!. (All barebone-windows)
 
 
 ### 🎬  Productivity & Legacy Media Playback
