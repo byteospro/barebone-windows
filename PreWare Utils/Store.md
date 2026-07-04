@@ -34,6 +34,10 @@ Season 1
 
 *   **[Windows 95 Apps And More Stuff (Preservation Mirror For Windows 95 Apps)](https://archive.org/details/some-win-95-apps-and-stuff) [(Direct Download)](https://ia601401.us.archive.org/3/items/some-win-95-apps-and-stuff/SomeWin95AppsAndStuff.zip)**: This Is Our Hand Made Pack Which Contains Apps like calc.exe , cdplayer.exe , explorer.exe , rapayer.exe , regedit.exe , etc , but also there are some files that i found with extensions .gif . .xls .doc .ppt .htm (correct me if im wrong) i think most of them are empty but some are not and I also have not took a look at this yet , so download this compact 17mb .zip file now and explore it! (Windows 95 Exclusive)
 
+### 🧳 Community Made Packs
+
+*   **[Windows 2000 Most Apps (Includes Trial and Freeware}](https://archive.org/details/win-2k-apps-ba) or [Direct Download](https://dn721208.ca.archive.org/0/items/win-2k-apps-ba/Win2K_apps_BA.iso)** This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! SIZE - 3.9GB. (Windows 2000 Exclusive)
+
 ### 💽 Utilities
 
 *   **[Windows 95 OSR2 Calculator (Preservation Mirror)](https://archive.org/details/calc_20260704) or [Direct Download](https://ia600601.us.archive.org/21/items/calc_20260704/calc.exe)**: Download The Original Windows 95 OSR 2 Right Now For Your barebone-windows! It's Just 58kb!! [WORKING VERIFIED] (Windows 95 Exclusive)
