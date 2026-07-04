@@ -36,4 +36,6 @@ Season 1
 
 ### 💽 Utilities
 
-*   **[Windows 95 OSR2 Calculator](https://archive.org/details/calc_20260704) or [Direct Download](https://ia600601.us.archive.org/21/items/calc_20260704/calc.exe)**: Download The Original Windows 95 OSR 2 Right Now For Your barebone-windows! It's Just 58kb!! [WORKING VERIFIED] (Windows 95 Exclusive)
+*   **[Windows 95 OSR2 Calculator (Preservation Mirror)](https://archive.org/details/calc_20260704) or [Direct Download](https://ia600601.us.archive.org/21/items/calc_20260704/calc.exe)**: Download The Original Windows 95 OSR 2 Right Now For Your barebone-windows! It's Just 58kb!! [WORKING VERIFIED] (Windows 95 Exclusive)
+
+*   **[Windows 95 OSR2 System Monitor (Preservation Mirror)](https://archive.org/details/sysmon_202607) or [Direct Download](https://ia601509.us.archive.org/13/items/sysmon_202607/sysmon.exe)**:Download The Original System Monitor From Win95 OSR2 Right Now!! (Windows 95 Exclusive)
