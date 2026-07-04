@@ -26,6 +26,8 @@ Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - https://drive.google.co
 
 *   **[Microsoft PLUS! For Windows XP (Preservation Mirror)](https://archive.org/details/plus-for-win-xp)**: This Is The Last Release Of Microsoft PLUS! , download the ISO file from here right now and test it! (Windows XP Exclusive)
 
+*   **[Microsoft PLUS! Digital Media Edition (Preservation Mirror)](https://archive.org/details/plus-digital-media-edition_202607) or [Direct Download](https://ia601904.us.archive.org/16/items/plus-digital-media-edition_202607/PLUS%21%20DIGITAL%20MEDIA%20EDITION.zip)**: The Most Last Version Of Plus! Line From Microsoft , It Contained many useful things for Windows XP. Download This File Now To Experience It! (WindowsXP Exclusive)
+
 ### 📁Own-Made Packs And Folders
 
 Season 1
