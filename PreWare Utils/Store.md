@@ -45,9 +45,38 @@ Season 1
 
 ### 💽 Utilities
 
+Windows 95 Items
+
 *   **[Windows 95 OSR2 Calculator (Preservation Mirror)](https://archive.org/details/calc_20260704) or [Direct Download](https://ia600601.us.archive.org/21/items/calc_20260704/calc.exe)**: Download The Original Windows 95 OSR 2 Right Now For Your barebone-windows! It's Just 58kb!! [WORKING VERIFIED] (Windows 95 Exclusive)
 
 *   **[Windows 95 OSR2 System Monitor (Preservation Mirror)](https://archive.org/details/sysmon_202607) or [Direct Download](https://ia601509.us.archive.org/13/items/sysmon_202607/sysmon.exe)**:Download The Original System Monitor From Win95 OSR2 Right Now!! (Windows 95 Exclusive)
+
+https://archive.org/details/actmovie - ActMovie
+
+https://archive.org/details/cdplayer_202607 - CDPlayer
+
+https://archive.org/details/tour_20260705 - Common Apps
+
+https://archive.org/details/charmap_202607 - Character Map
+
+https://archive.org/details/deltree_202607 - DelTree
+
+https://archive.org/details/diskcopy_202607 - DiskCopy
+
+https://archive.org/details/drvspace - DriveSpace
+
+https://archive.org/details/drwatson_202607 - DrWatson
+
+https://archive.org/details/excel_202607 - Excel Files
+
+https://archive.org/details/explorer_202607 - Explorer.exe
+
+https://archive.org/details/find_20260705 - Find
+
+https://archive.org/details/fontreg - FontReg
+
+
+
 
 ### 🗝 Old Versions Of Repo
 
