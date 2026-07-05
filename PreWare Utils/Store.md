@@ -45,3 +45,13 @@ Season 1
 *   **[Windows 95 OSR2 Calculator (Preservation Mirror)](https://archive.org/details/calc_20260704) or [Direct Download](https://ia600601.us.archive.org/21/items/calc_20260704/calc.exe)**: Download The Original Windows 95 OSR 2 Right Now For Your barebone-windows! It's Just 58kb!! [WORKING VERIFIED] (Windows 95 Exclusive)
 
 *   **[Windows 95 OSR2 System Monitor (Preservation Mirror)](https://archive.org/details/sysmon_202607) or [Direct Download](https://ia601509.us.archive.org/13/items/sysmon_202607/sysmon.exe)**:Download The Original System Monitor From Win95 OSR2 Right Now!! (Windows 95 Exclusive)
+
+### 🗝 Old Versions Of Repo
+
+*   **[barebone-windows as of 05/07/2026][Direct Download](https://ia600701.us.archive.org/7/items/barebone-windows-main/barebone-windows-main.zip)**: old version of this repo from 05/07/2026.
+
+### 🎁 Holiday Fun Packs
+
+*   **[Microsoft Winter Fun Packs 2003](https://archive.org/details/windows-xp-winter-fun-packs-2003) or [Direct Download](https://ia601904.us.archive.org/0/items/windows-xp-winter-fun-packs-2003/WindowsXP_WinterFunPacks_2003.zip)**: Winter Holdiday fun packs of 2003 by microsoft , it was a freeware at that time that you can download for free at their website. This includes some fun things , download it now! (Windows XP Exclusive)
+
+*   **[Microsoft Winter Fun Packs 2004](https://archive.org/details/windows-xp-winter-fun-packs-2004)**: Winter Fun Packs From 2004. (Windows XP Exclusive)
