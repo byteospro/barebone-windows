@@ -38,7 +38,10 @@ Season 1
 
 ### 🧳 Community Made Packs
 
-*   **[Windows 2000 Most Apps (Includes Trial and Freeware}](https://archive.org/details/win-2k-apps-ba) or [Direct Download](https://dn721208.ca.archive.org/0/items/win-2k-apps-ba/Win2K_apps_BA.iso)** This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! SIZE - 3.9GB. (Windows 2000 Exclusive)
+*   **[Windows 2000 Most Apps (Includes Trial and Freeware}](https://archive.org/details/win-2k-apps-ba)** This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! SIZE - 3.9GB. (Windows 2000 Exclusive)
+
+*   **[Applications for Windows XP (backup archive)](https://archive.org/details/winxp-apps-ba/)**: This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! Disk 1 SIZE - 4.0GB , Disk 2 SIZE - 4.1GB Disk 3 SIZE - 4.2GB (Windows XP Exclusive)
+
 
 ### 💽 Utilities
 
