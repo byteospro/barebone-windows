@@ -1,3 +1,12 @@
+### 🔥 Top Picks
+
+*   **DOOM95**
+*   **7zip 9.20**
+*   **MS PLUS!**
+*   **Most Apps For Win2k And XP**
+*   **3D Pinball**
+*   **Supermium**
+
 ### ⌨  Essential Drivers For Performance
 
 * VMware Tools 10.0.0 for Windows XP (VMware Exclusive):**[VMware Tools v10.0.12 (Official Directory Target)](https://packages.vmware.com/tools/releases/10.0.12/windows/x86/)**: Broadcom officially maintains the legacy repository index endpoints for vintage guest operating systems. Open the official index pathway directory, select **`VMware-tools-10.0.12-4448496-i386.exe`**, and download the source package cleanly. [WORKING VERIFIED]
