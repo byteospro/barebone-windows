@@ -1,5 +1,6 @@
 ## 🏪 Store
 Get Some Software For Your barebone-windows!
+---
 
 ### 🔥 Top Picks
 
@@ -9,6 +10,8 @@ Get Some Software For Your barebone-windows!
 *   **Most Apps For Win2k And XP**
 *   **3D Pinball**
 *   **Supermium**
+
+---
 
 ### ⌨  Essential Drivers For Performance
 
@@ -107,4 +110,8 @@ Windows 95 Items
 
 *   **[WindowsME Boot Disk (Preservation Mirror)](https://archive.org/details/windows-me_202607) or [Direct Download](https://ia601906.us.archive.org/14/items/windows-me_202607/WindowsME.img)**: WindowsME bootable floppy disk .img file (1.44mb).
 
+---
+
 ### ⭐ Premium Picks
+
+---
