@@ -95,6 +95,4 @@ Windows 95 Items
 
 *   **[WindowsME Boot Disk (Preservation Mirror)](https://archive.org/details/windows-me_202607) or [Direct Download](https://ia601906.us.archive.org/14/items/windows-me_202607/WindowsME.img)**: WindowsME bootable floppy disk .img file (1.44mb).
 
-### ⭐ Premium Things
-
-*  **[98LITE 4.7 (Preservation Mirror)](https://archive.org/details/98-lite-4.7) or [Direct Download](https://ia600109.us.archive.org/21/items/98-lite-4.7/98Lite%204.7.iso)**: 98lite Which helps you strip down componenents For Windows 98 And Windows ME.
+### ⭐ Premium Picks
