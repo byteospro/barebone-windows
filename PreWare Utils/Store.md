@@ -125,3 +125,7 @@ Windows 95 Items
 *   **[MS Office XP (2001 Edition)(Preservation Mirror)](https://drive.google.com/file/d/1NGSfj7iTMzyweTbSOXmcJxPWWCsdCrAk/view?usp=sharing)**: The Office Suite For Windows XP. (Windows XP Exclusive)
 
 ---
+
+### 🖥 Emulators
+
+*   **[Virtualbox 3.0 (Preservation Mirror)](https://drive.google.com/file/d/16PgijY_Qg2FGt9nfZ0m_i90uNexNVzqG/view?usp=sharing)**: Virtualbox 3.0 to emulate OS of your choice! (Windows XP Exclusive)
