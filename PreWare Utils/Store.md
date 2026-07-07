@@ -84,29 +84,29 @@ Windows 95 Items
 
 *   **[Windows 95 OSR2 System Monitor (Preservation Mirror)](https://archive.org/details/sysmon_202607) or [Direct Download](https://ia601509.us.archive.org/13/items/sysmon_202607/sysmon.exe)**:Download The Original System Monitor From Win95 OSR2 Right Now!! (Windows 95 Exclusive)
 
- https://archive.org/details/actmovie - ActMovie
+  https://archive.org/details/actmovie - ActMovie
  
- https://archive.org/details/cdplayer_202607 - CDPlayer
+  https://archive.org/details/cdplayer_202607 - CDPlayer
 
- https://archive.org/details/tour_20260705 - Common Apps
+  https://archive.org/details/tour_20260705 - Common Apps
 
- https://archive.org/details/charmap_202607 - Character Map
+  https://archive.org/details/charmap_202607 - Character Map
 
- https://archive.org/details/deltree_202607 - DelTree
+  https://archive.org/details/deltree_202607 - DelTree
 
- https://archive.org/details/diskcopy_202607 - DiskCopy
+  https://archive.org/details/diskcopy_202607 - DiskCopy
 
- https://archive.org/details/drvspace - DriveSpace 
+  https://archive.org/details/drvspace - DriveSpace 
  
- https://archive.org/details/drwatson_202607 - DrWatson
+  https://archive.org/details/drwatson_202607 - DrWatson
 
- https://archive.org/details/excel_202607 - Excel Files
+  https://archive.org/details/excel_202607 - Excel Files
 
- https://archive.org/details/explorer_202607 - Explorer.exe
+  https://archive.org/details/explorer_202607 - Explorer.exe
 
- https://archive.org/details/find_20260705 - Find
+  https://archive.org/details/find_20260705 - Find
 
- https://archive.org/details/fontreg - FontReg
+  https://archive.org/details/fontreg - FontReg
 
  All Of The Windows 95 Apps Standalone Links Are Also For Preservation Purposes.
 
@@ -147,3 +147,13 @@ Windows 95 Items
 ### 🖥 Emulators
 
 *   **[Virtualbox 3.0 (Preservation Mirror)](https://drive.google.com/file/d/16PgijY_Qg2FGt9nfZ0m_i90uNexNVzqG/view?usp=sharing)**: Virtualbox 3.0 to emulate OS of your choice! (Windows XP Exclusive)
+
+---
+
+### 🖼 Wallpaper Collections
+
+*   **[Windows 95 Wallpaper Collection Bulk (Wallpaper Preservation Mirror)](https://drive.google.com/file/d/1WpjGgVXR_86Ulqh7x93amu7NRjnGnWZ-/view?usp=sharing)**: Windows 95 Wallpaper Collection Which I Collected From many Websites And Merged Them Into 1 Single Bulk Pack.
+
+*   **[Windows 2000 Wallpaper Collection Bulk (Wallpaper Preservation Mirror)](https://drive.google.com/file/d/1-gahI29tbqnt8cGQQXcDQahNCZzpnSDt/view?usp=sharing)**: Windows 2000 Wallpaper Collection Which I Collected From many Websites And Merged Them Into 1 Single Bulk Pack.
+
+---
