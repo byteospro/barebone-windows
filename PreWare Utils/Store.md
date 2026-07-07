@@ -156,4 +156,6 @@ Windows 95 Items
 
 *   **[Windows 2000 Wallpaper Collection Bulk (Wallpaper Preservation Mirror)](https://drive.google.com/file/d/1-gahI29tbqnt8cGQQXcDQahNCZzpnSDt/view?usp=sharing)**: Windows 2000 Wallpaper Collection Which I Collected From many Websites And Merged Them Into 1 Single Bulk Pack.
 
+*   **[Windows XP Wallpaper Collection Bulk (Wallapaper Preservation Mirror)](https://drive.google.com/file/d/1d0p4VNHjcZ-z7RYz2L3XYN2i4CJTDdtS/view?usp=sharing)**: Windows XP Desktop Magazine Wallpapers Bulk (3 resolution included in almost every zip file).
+
 ---
