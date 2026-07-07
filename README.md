@@ -143,8 +143,8 @@ Once the automated graphical installer drops you directly onto your fresh Luna d
 # 🛠️ PreWare Utilities (Curated Retro Software Library)
 An archive of verified, clean legacy applications and tools perfectly optimized to run flawlessly within your Barebone environments without bloating the file system.
 
-The Links Have Been Moved To The Store.md , Access Them Here - github.com/byteospro/barebone-windows/main/preware utils
-
+The Links Have Been Moved To The Store.md , Access Them Here - [PreWare Utilities Store](https://github.com/byteospro/barebone-windows/blob/main/PreWare%20Utils/Store.md)
+ 
 *   Check Out My Internet Archive homepage , this is the place where i upload most of my PreWare Utilities Items! (Not All) - **[My Internet Archive Homepage](https://archive.org/details/@rishabh_sinha124)**
 
 ---
