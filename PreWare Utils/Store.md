@@ -17,6 +17,8 @@ Get Some Software For Your barebone-windows!
 
 * VMware Tools 10.0.0 for Windows XP (VMware Exclusive):**[VMware Tools v10.0.12 (Official Directory Target)](https://packages.vmware.com/tools/releases/10.0.12/windows/x86/)**: Broadcom officially maintains the legacy repository index endpoints for vintage guest operating systems. Open the official index pathway directory, select **`VMware-tools-10.0.12-4448496-i386.exe`**, and download the source package cleanly. [WORKING VERIFIED]
 
+* **[VMware Tools 3.5.0 (Preservation Mirror)](https://archive.org/details/vmware-tools-windows-3.5.0-110268) (Vmware Exclusive) (Windows 95 , 2k Exclusive)**: Basically , VMware Tools For Windows 2k and 95.
+
 ### 🌐  Old Web Browsers
 
 Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - [Supermium Download](https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing)
