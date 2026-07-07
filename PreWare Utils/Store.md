@@ -1,5 +1,6 @@
-## 🏪 Store
-Get Some Software For Your barebone-windows!
+# 🏪 Store
+
+## Get Some Software For Your barebone-windows!
 ---
 
 ### 🔥 Top Picks
