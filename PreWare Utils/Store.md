@@ -22,7 +22,7 @@
 
 ### 🌐  Old Web Browsers
 
-Supermium (Latest) (27-06-2026) (Windows XP Exclusive) - [Supermium Download](https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing)
+Supermium (Latest) (27-06-2026) (Windows XP Exclusive) (Preservation Mirror) - [Supermium Download](https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing)
 
 ### 🎮  Retro Gaming 
 
@@ -56,9 +56,9 @@ Season 1
 
 ### 🧳 Community Made Packs
 
-*   **[Windows 2000 Most Apps (Includes Trial and Freeware}](https://archive.org/details/win-2k-apps-ba)** This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! SIZE - 3.9GB. (Windows 2000 Exclusive)
+*   **[Windows 2000 Most Apps (Includes Trial and Freeware)(Preservation Mirror)](https://archive.org/details/win-2k-apps-ba)** This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! SIZE - 3.9GB. (Windows 2000 Exclusive)
 
-*   **[Applications for Windows XP (backup archive)](https://archive.org/details/winxp-apps-ba/)**: This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! Disk 1 SIZE - 4.0GB , Disk 2 SIZE - 4.1GB Disk 3 SIZE - 4.2GB (Windows XP Exclusive)
+*   **[Applications for Windows XP (backup archive)(Preservation Mirror)](https://archive.org/details/winxp-apps-ba/)**: This is made by https://archive.org/details/@svinpole , you can check him out and there is no guarantee that there is no malware , so try them at your own risk! Disk 1 SIZE - 4.0GB , Disk 2 SIZE - 4.1GB Disk 3 SIZE - 4.2GB (Windows XP Exclusive)
 
 
 ### 💽 Utilities
@@ -93,7 +93,9 @@ Windows 95 Items
 
  https://archive.org/details/fontreg - FontReg
 
- *   **[Windows 95 300+ Programs And More](https://archive.org/details/windows-95-300-programs-more_202607) or [Direct Download](https://ia600801.us.archive.org/32/items/windows-95-300-programs-more_202607/Windows%2095%20-%20300%20Programs%20%26%20More.iso)** (Windows 95 Exclusive)
+ All Of The Windows 95 Apps Standalone Links Are Also For Preservation Purposes.
+
+ *   **[Windows 95 300+ Programs And More(Preservation Mirror)](https://archive.org/details/windows-95-300-programs-more_202607) or [Direct Download](https://ia600801.us.archive.org/32/items/windows-95-300-programs-more_202607/Windows%2095%20-%20300%20Programs%20%26%20More.iso)** (Windows 95 Exclusive)
 
 
 
@@ -119,6 +121,12 @@ New Links (Above Links Are Still Accesible But Are Not Updated Anymore.)
 
 ---
 
-### ⭐ Premium Picks
+### 🏢 Productivity
+
+*   **[MS Office 95(Preservation Mirror)](https://drive.google.com/file/d/1hFt5shTB-A2ngPsOrF9_Du-W7LHp06FH/view?usp=sharing)**: The Office Suite For Windows 95. (Windows 95 Exclusive)
+
+*   **[MS Office 2000(Preservation Mirror)](https://drive.google.com/file/d/1ZB9Dw7zSF8h7zoJShiQNSMdAdebFbzKC/view?usp=sharing)**: The Office Suite For Windows 2000. (Windows 2000 Exclusive)
+
+*   **[MS Office XP (2001 Edition)(Preservation Mirror)](https://drive.google.com/file/d/1NGSfj7iTMzyweTbSOXmcJxPWWCsdCrAk/view?usp=sharing)**: The Office Suite For Windows XP. (Windows XP Exclusive)
 
 ---
