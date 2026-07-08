@@ -28,6 +28,9 @@
 
 *  **[PreWareUtils Addons 95 (Preservation)]()**: Contains A Huge Amount Of Selected Software To Install It On Your barebone-windows. (Windows 95 Exclusive) [NOT YET IMPLEMENTED]
 
+<img width="283" height="371" alt="image" src="https://github.com/user-attachments/assets/d2771d5c-89a6-4ef4-9c4a-2a1653cff10f" />
+
+
 ---
 
 ### 🌐  Old Web Browsers
