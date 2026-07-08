@@ -24,6 +24,10 @@
 
 ---
 
+### 💾 PreWareUtils Addons
+
+*  **[PreWareUtils Addons 95 (Preservation)]()**: Contains A Huge Amount Of Selected Software To Install It On Your barebone-windows. (Windows 95 Exclusive) [NOT YET IMPLEMENTED]
+
 ### 🌐  Old Web Browsers
 
 Supermium (Latest) (27-06-2026) (Windows XP Exclusive) (Preservation Mirror) - [Supermium Download](https://drive.google.com/file/d/17fhD0eAvyX_xCNnmwcDozaP0LFIOHteF/view?usp=sharing)
