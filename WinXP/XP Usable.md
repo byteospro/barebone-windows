@@ -32,7 +32,7 @@ Windows Live Essentials (Who's Gonna Get That??)
 
 ### Step 5
 
-##### Install the Royale Theme From Here - [Royale Theme For Windows](xxx) [LINK NOT AVAILABLE] [AVAILABLE IN .zip EXTENSION ONLY] [DESIGNED FOR WINDOWS XP]
+##### Install the Royale Theme From Here - [Royale Theme For Windows](https://archive.org/details/royale-theme_202607) [AVAILABLE IN .zip EXTENSION ONLY] [DESIGNED FOR WINDOWS XP]
 
 This has a bundled 2 Wallpapers And the Royale theme Executable file as well.
 
@@ -149,23 +149,31 @@ Get On With Gaming! (Retro Edition)
 
 ##### 💾 Entertainment Packs
 
-*   **[Microsoft Entertainment Packs 1-4 (Best Of)](xxx): Get The Retro Entertainment Packs! [LINK NOT AVAILABLE]
+*   **[Microsoft Entertainment Packs 1-4 (Best Of)](https://archive.org/details/microsoft-entertainment-pack-1-4-best-of-): Get The Retro Entertainment Packs!
 
 ### Step 13
 
 Make Windows Look More Modern!
 
-Google Desktop (Discontinued) - [Google Desktop (All Versions)](xxx): Google Desktop With Sidebars , Deskbars And Desktop Search! [LINK NOT AVAILABLE]
+Google Desktop (Discontinued) - [Google Desktop (All Versions)](https://www.oldversion.com/software/google-desktop/): Google Desktop With Sidebars , Deskbars And Desktop Search! [LINK NOT AVAILABLE]
 
-Yahoo! Widgets (Discontinued) - [Yahoo! Widgets (Previously Konfabulator)](xxx) : Widgets , Widgets , Widgets!!!!! (Windows XP)
+Yahoo! Widgets (Discontinued) - [Yahoo! Widgets (Previously Konfabulator)](https://www.oldversion.com/software/yahoo-widget-engine/) : Widgets , Widgets , Widgets!!!!! (Windows XP)
 |
+
 |
+
 |-- Want More Widgets For Yahoo! Widgets? , I Got You!
+
 |
+
 |
+
 |- Ricky Romero's Yahoo! Widgets - [OFFICIAL WEBSITE TARGET](https://rickyromero.com/widgets/)
+
 |- Some More Yahoo! Widgets - [OFFICIAL WEBSITE TARGET](https://g6auc.me.uk/others.html)
+
 |
+
 |- Transfer the widget files in the "My Widgets" Folder in "My Documents" Folder.
 
 ### Step 14
@@ -179,24 +187,43 @@ Get Some Winter Packs!
 ### Step 15
 
 Get Some Google Abandonware! (AbandonwareFor Windows XP, Not For Modern Windows , As Some apps still might be supported with modern windows versions)
+
 |
+
 |- Google Talk - [DOWNLOAD](https://www.oldversion.com/software/google-talk/)
+
 |
+
 |- Google Chrome - [DOWNLOAD](https://www.oldversion.com/software/google-chrome/)
+
 |
+
 |- Google Earth - [DOWNLOAD](https://www.oldversion.com/software/google-earth/)
+
 |
+
 |- Google Drive - [DOWNLOAD](https://www.oldversion.com/software/google-drive/)
+
 |
+
 |- Google Toolbar - [DOWNLOAD](https://www.oldversion.com/software/google-toolbar/)
+
 |
+
 |- Google SketchUp - [DOWNLOAD](https://www.oldversion.com/software/google-sketchup/)
+
 |
+
 |- Google Map Buddy - [DOWNLOAD](https://www.oldversion.com/software/google-map-buddy/)
+
 |
+
 |- Google Web Accelerator - [DOWNLOAD](https://www.oldversion.com/software/google-web-accelerator/)
+
 |
+
 |- WARNING - SOME APPS MIGHT NOT WORK ON WINDOWS XP.
+
 
 
 
