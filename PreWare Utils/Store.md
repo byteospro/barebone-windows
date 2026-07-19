@@ -20,7 +20,7 @@
 
 * **[VMware Tools 3.5.0 (Preservation Mirror)](https://archive.org/details/vmware-tools-windows-3.5.0-110268) (Vmware Exclusive) (Windows 95 , 2k Exclusive)**: Basically , VMware Tools For Windows 2k and 95.
 
-* **[BEARWINDOWS DRIVERS (official directory target](https://bearwindows.zcm.com.au/)**: Homepage of Bearwindows Drivers from which you can download drivers for your old machines running like winndows 2000 or something ig.
+* **[BEARWINDOWS DRIVERS (official directory target)](https://bearwindows.zcm.com.au/)**: Homepage of Bearwindows Drivers from which you can download drivers for your old machines running like winndows 2000 or something ig.
 
 ---
 
