@@ -225,7 +225,27 @@ Get Some Google Abandonware! (AbandonwareFor Windows XP, Not For Modern Windows 
 |- WARNING - SOME APPS MIGHT NOT WORK ON WINDOWS XP.
 
 
+### Step 16
 
+Some Power Tools For Power Users!
+
+PowerToys For Windows XP (ig 2008 edition) - [PowerToys XP From Major Geeks](https://www.majorgeeks.com/mg/getmirror/microsoft_windows_xp_powertoys,2.html)
+
+Recommended Choices To Install On Windows XP - Deskman And Tweak UI
+
+For Your Windows 95 VM - [PowerToys 95 From VetusWare(Login is Required On VetusWare)](https://vetusware.com/download/WIndows%2095%20PowerToys%201.x/?id=7709)
+
+### Step 17
+
+Customize Windows XP Even More!!
+
+Xpize 5 Release 6 - [Xpize 5 Release 6 From Major Geeks](https://www.majorgeeks.com/files/details/xpize.html)
+
+Recommended Theme From Xpize - Zune Theme
+
+
+
+That's It For Now!
 
 
 
